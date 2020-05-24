@@ -1,1 +1,5 @@
-Hallo, das ist die Footer.php
+<?php wp_footer();?>
+
+
+</body>
+</html>
